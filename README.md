@@ -5,4 +5,6 @@
 made by Nokkela 
 Contact on discord if any questions. 
 discord.gg/XEfHshfvPH 
-Edit: (27.3.2023) **Changed .exe icon to new one, And fixed error coming from microsoft browser.**
+
+
+Edit: (**27.3.2023**) **Changed .exe icon to new one, And fixed error coming from microsoft browser.**
